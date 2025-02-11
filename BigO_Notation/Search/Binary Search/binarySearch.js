@@ -19,3 +19,5 @@ function binarySearch(n, t) {
 }
 
 console.log(binarySearch(arr, 102));
+
+// Time Complexity is O(log(n))
